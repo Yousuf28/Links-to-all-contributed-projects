@@ -27,8 +27,9 @@
 ## [rapt](https://github.com/Yousuf28/rapt)
 - apt for R
 ## [addinR](https://github.com/Yousuf28/addinR)
-## [shinyUsers](https://github.com/Yousuf28/shinyUsers)
 - some useful addins for Rstudio
+## [shinyUsers](https://github.com/Yousuf28/shinyUsers)
+- get details about your shiny app usage
 ## [depGraph](https://github.com/Yousuf28/depGraph)
 ## [Docker image for R and Python](https://github.com/Yousuf28/docker_image_r_python)
 
