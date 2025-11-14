@@ -1,4 +1,0 @@
-#+title: Readme
-#+HTML_HEAD: <base target="_blank">
-* [[https://github.com/phuse-org/toxSummary][ToxSummary]]
-**  [[https://github.com/phuse-org/toxSummary][ToxSummary]]
