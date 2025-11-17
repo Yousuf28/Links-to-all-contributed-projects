@@ -10,7 +10,6 @@
 ## [SENDsanitizer](https://github.com/phuse-org/SENDsanitizer)  
 - Generate synthetic SEND-formatted data from real SEND-formatted Data
 
-
 ## [SEND-Coding-Bootcamp](https://github.com/phuse-org/SEND-Coding-Bootcamp)
 - Coding Bootcamp aims to help those work with SEND datasets
 ## [send-summarizer](https://github.com/phuse-org/send-summarizer)
@@ -24,6 +23,8 @@
 ## [xptpython](https://github.com/Yousuf28/xptpython)
 ## [Awesome-SEND](https://github.com/Yousuf28/Awesome-SEND)
 - links related to SEND/Nonclinical toxicology
+## [PrecisionFDA Challenge](https://precision.fda.gov/challenges/35/intro)
+- This precisionFDA challenge invites participants to develop predictive toxicology models from animal study data produced in compliance with the Standard for Exchange of Nonclinical Data (SEND)
 ## [rapt](https://github.com/Yousuf28/rapt)
 - apt for R
 ## [addinR](https://github.com/Yousuf28/addinR)
