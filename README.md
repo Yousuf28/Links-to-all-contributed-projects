@@ -29,6 +29,8 @@
 - apt for R
 ## [addinR](https://github.com/Yousuf28/addinR)
 - some useful addins for Rstudio
+## [dir_dump](https://github.com/Yousuf28/dir_dump)
+- copy all content of a directory to a file or clipboard
 ## [shinyUsers](https://github.com/Yousuf28/shinyUsers)
 - get details about your shiny app usage
 ## [depGraph](https://github.com/Yousuf28/depGraph)
